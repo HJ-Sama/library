@@ -1,0 +1,26 @@
+﻿  Library2.0.cpp
+c:\users\dell\desktop\library2.5\library2.0\library.h(149): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\dell\desktop\library2.5\library2.0\library.h(870): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\dell\desktop\library2.5\library2.0\library.h(888): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\dell\desktop\library2.5\library2.0\library.h(972): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\dell\desktop\library2.5\library2.0\library.h(1049): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+c:\users\dell\desktop\library2.5\library2.0\library.h(891): warning C4102: “number0”: 未引用的标签
+c:\users\dell\desktop\library2.5\library2.0\library.h(1829): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\dell\desktop\library2.5\library2.0\library.h(1794): warning C4101: “choice”: 未引用的局部变量
+c:\users\dell\desktop\library2.5\library2.0\library.h(2438): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\dell\desktop\library2.5\library2.0\library.h(2798): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\dell\desktop\library2.5\library2.0\library.h(2861): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\dell\desktop\library2.5\library2.0\library.h(2621): warning C4101: “input”: 未引用的局部变量
+c:\users\dell\desktop\library2.5\library2.0\library.h(3234): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\dell\desktop\library2.5\library2.0\library.h(3386): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\dell\desktop\library2.5\library2.0\library.h(3407): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\dell\desktop\library2.5\library2.0\library.h(3503): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\dell\desktop\library2.5\library2.0\library.h(3579): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\dell\desktop\library2.5\library2.0\library.h(3705): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\dell\desktop\library2.5\library2.0\library.h(3087): warning C4101: “input”: 未引用的局部变量
+c:\users\dell\desktop\library2.5\library2.0\library.h(3406): warning C4101: “nStart”: 未引用的局部变量
+c:\users\dell\desktop\library2.5\library2.0\library.h(57): warning C4172: 返回局部变量或临时变量的地址: bTime
+c:\users\dell\desktop\library2.5\library2.0\library.h(80): warning C4715: “OutTime”: 不是所有的控件路径都返回值
+c:\users\dell\desktop\library2.5\library2.0\library.h(64): warning C4172: 返回局部变量或临时变量的地址: sTime
+  Library2.0.vcxproj -> C:\Users\dell\Desktop\Library2.5\x64\Debug\Library2.0.exe
+  Library2.0.vcxproj -> C:\Users\dell\Desktop\Library2.5\x64\Debug\Library2.0.pdb (Full PDB)

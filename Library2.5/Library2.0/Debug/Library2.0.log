@@ -1,0 +1,59 @@
+﻿  stdafx.cpp
+  Book.cpp
+  Library2.0.cpp
+N:\项目\Library2.5\Library2.0\Library.h(147,19): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(681,27): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(790,27): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(868,20): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(916,27): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(1004,27): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(1092,27): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(1200,26): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(1049,20): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+N:\项目\Library2.5\Library2.0\Library.h(891,1): warning C4102: “number0”: 未引用的标签
+N:\项目\Library2.5\Library2.0\Library.h(1366,23): warning C4018: “<”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(1378,19): warning C4018: “<”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(1411,21): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(1441,28): warning C4018: “<”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(1597,21): warning C4018: “<”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(1634,24): warning C4018: “<”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(1688,26): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(1827,19): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(2061,24): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(2104,24): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(2151,24): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(2194,24): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(1794,7): warning C4101: “choice”: 未引用的局部变量
+N:\项目\Library2.5\Library2.0\Library.h(2436,18): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(2693,25): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(2796,19): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(2830,24): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(2948,24): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(2621,8): warning C4101: “input”: 未引用的局部变量
+N:\项目\Library2.5\Library2.0\Library.h(3163,39): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(3234,67): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+N:\项目\Library2.5\Library2.0\Library.h(3384,19): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(3432,38): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(3503,67): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+N:\项目\Library2.5\Library2.0\Library.h(3634,37): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Library.h(3705,66): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+N:\项目\Library2.5\Library2.0\Library.h(3087,8): warning C4101: “input”: 未引用的局部变量
+N:\项目\Library2.5\Library2.0\Library.h(3406,10): warning C4101: “nStart”: 未引用的局部变量
+  Manager.cpp
+N:\项目\Library2.5\Library2.0\Manager.cpp(9,16): warning C4018: “>=”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Manager.cpp(93,10): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Manager.cpp(205,10): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Manager.cpp(319,20): warning C4018: “<”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Manager.cpp(329,20): warning C4018: “<”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Manager.cpp(409,8): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Manager.cpp(502,17): warning C4018: “<=”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Manager.cpp(602,20): warning C4018: “<”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Manager.cpp(653,10): warning C4018: “>”: 有符号/无符号不匹配
+N:\项目\Library2.5\Library2.0\Manager.cpp(735,20): warning C4018: “<”: 有符号/无符号不匹配
+  User.cpp
+  正在生成代码...
+N:\项目\Library2.5\Library2.0\Manager.cpp(793): warning C4715: “ReaderManager::Change”: 不是所有的控件路径都返回值
+N:\项目\Library2.5\Library2.0\Library.h(57): warning C4172: 返回局部变量或临时变量的地址: bTime
+N:\项目\Library2.5\Library2.0\Library.h(80): warning C4715: “OutTime”: 不是所有的控件路径都返回值
+N:\项目\Library2.5\Library2.0\Library.h(64): warning C4172: 返回局部变量或临时变量的地址: sTime
+  Library2.0.vcxproj -> N:\项目\Library2.5\Debug\Library2.0.exe
